@@ -1,0 +1,144 @@
+div.site {
+	  float: center;
+}
+div.banner {
+  background-color: rgba(140, 0, 255, 0.5);
+  margin: auto;
+    max-width: 2560px;
+   border-radius: 5px;
+  	padding-top: 15px;
+	padding-left: 15px;
+	padding-bottom: 15px;
+	border-style: solid;
+	border-color: #999999;
+	 border-width: 2px;
+	 font-family: Contemporary, Verdana, Arial;
+	   float: center;
+}
+
+body {
+	background-color: #000000;
+}
+
+div.section1 {
+	margin: auto;
+	  max-width: 2560px;
+  background-color: rgba(244, 167, 0, 0.5);
+   border-radius: 5px;
+  	padding-top: 15px;
+	padding-left: 15px;
+	padding-bottom: 15px;
+	max-width="95%";
+	border-style: solid;
+	border-color: #999999;
+	 border-width: 2px;
+	  font-family: Contemporary, Verdana, Arial;
+	    float: center;
+}
+
+div.section2 {
+	margin: auto;
+  background-color: rgba(168, 86, 106, 0.5);
+    max-width: 2560px;
+   border-radius: 5px;
+  	padding-top: 15px;
+	padding-left: 15px;
+	padding-bottom: 15px;
+	max-width="95%";
+	border-style: solid;
+	border-color: #999999;
+	 border-width: 2px;
+	  font-family: Contemporary, Verdana, Arial;
+}
+
+div.footer {
+  background-color: rgba(140, 0, 255, 0.5);
+    float: ;
+    max-width: 2560px;
+    border-radius: 5px;
+  	padding-top: 15px;
+	padding-left: 15px;
+	padding-bottom: 15px;
+	border-style: solid;
+	border-color: #999999;
+	 border-width: 2px;
+	margin: auto;
+	  font-family: Contemporary, Verdana, Arial;
+}
+
+h1 {
+  color: #ffffff;
+}
+
+h2 {
+  color: #ffffff;
+}
+
+h3 {
+  color: #ffffff;
+}
+
+h4 {
+  color: #ffffff;
+}
+
+h5 {
+  color: #ffffff;
+}
+
+h6 {
+  color: #ffffff;
+}
+
+p {
+  color: #ffffff;
+}
+
+a:link {
+  text-decoration: none;
+  color: #999999;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #999999;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #999999;
+}
+
+a:active {
+  text-decoration: none;
+  color: #999999;
+}
+
+.button {
+  background-color: #013220; /* Green */
+  border-width: 2px;
+  color: white;
+  padding: 7px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+  border-color: #999999;
+}
+
+
+div.image {
+  border-width: 2px;
+  color: white;
+  border-radius: 5px;
+  border-color: #999999;
+}
+
+div.footer-other {
+width: 50%
+}
+
+div.copyright {
+  margin: auto;
+}
