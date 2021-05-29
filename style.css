@@ -6,6 +6,14 @@
 div.site {
 	  float: center;
 }
+
+@media screen and (max-width: 600px) {
+  div.banner {
+    float: none;
+    width: 100%;
+  }
+}
+
 div.banner {
         background-color: rgba(140, 0, 255, 0.5);
         margin: auto;
@@ -26,6 +34,12 @@ body {
 	background-color: #000000;
 }
 
+@media screen and (max-width: 600px) {
+  div.section1 {
+    width: 100%;
+  }
+}
+
 div.section1 {
 	margin: auto;
 	max-width: 70%;
@@ -40,6 +54,12 @@ div.section1 {
 	border-width: 2px;
 	font-family: Contemporary, Verdana, Arial;
 	float: center;
+}
+
+@media screen and (max-width: 600px) {
+  div.section2 {
+    width: 100%;
+  }
 }
 
 div.section2 {
@@ -110,6 +130,11 @@ a:active {
   border-color: #999999;
 }
 
+@media screen and (max-width: 600px) {
+  div.footer {
+    width: 100%;
+  }
+}
 
 div.image {
   border-width: 2px;
