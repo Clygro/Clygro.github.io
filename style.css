@@ -4,7 +4,7 @@ div.site {
 div.banner {
   background-color: rgba(140, 0, 255, 0.5);
   margin: auto;
-    max-width: 2560px;
+    max-width: 70%;
    border-radius: 5px;
   	padding-top: 15px;
 	padding-left: 15px;
@@ -14,14 +14,6 @@ div.banner {
 	 border-width: 2px;
 	 font-family: Contemporary, Verdana, Arial;
 	   float: center;
-}
-
-@media (min-width: 768px) {
-  .site  {
-    width: 768px;
-    margin-left: auto;
-    margin-right: auto;
-  }
 }
 
 body {
@@ -47,7 +39,7 @@ div.section1 {
 div.section2 {
 	margin: auto;
   background-color: rgba(168, 86, 106, 0.5);
-    max-width: 2560px;
+    max-width: 70%;
    border-radius: 5px;
   	padding-top: 15px;
 	padding-left: 15px;
