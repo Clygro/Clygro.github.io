@@ -16,13 +16,21 @@ div.banner {
 	   float: center;
 }
 
+@media (min-width: 768px) {
+  .site  {
+    width: 768px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
 body {
-	background-color: #000000;
+	color: #000000;
 }
 
 div.section1 {
 	margin: auto;
-	  max-width: 2560px;
+	  max-width: 70%;
   background-color: rgba(244, 167, 0, 0.5);
    border-radius: 5px;
   	padding-top: 15px;
@@ -54,7 +62,7 @@ div.section2 {
 div.footer {
   background-color: rgba(140, 0, 255, 0.5);
     float: ;
-    max-width: 2560px;
+    max-width: 70%;
     border-radius: 5px;
   	padding-top: 15px;
 	padding-left: 15px;
@@ -66,33 +74,6 @@ div.footer {
 	  font-family: Contemporary, Verdana, Arial;
 }
 
-h1 {
-  color: #ffffff;
-}
-
-h2 {
-  color: #ffffff;
-}
-
-h3 {
-  color: #ffffff;
-}
-
-h4 {
-  color: #ffffff;
-}
-
-h5 {
-  color: #ffffff;
-}
-
-h6 {
-  color: #ffffff;
-}
-
-p {
-  color: #ffffff;
-}
 
 a:link {
   text-decoration: none;
@@ -115,7 +96,7 @@ a:active {
 }
 
 .button {
-  background-color: #013220; /* Green */
+  background-color: #013220; 
   border-width: 2px;
   color: white;
   padding: 7px 16px;
