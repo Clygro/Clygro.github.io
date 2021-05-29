@@ -1,19 +1,24 @@
+@font-face {
+  font-family: Contemporary;
+  src: url(https://github.com/Clygro/Clygro.github.io/raw/master/Contemporary-Regular.ttf);
+}
+
 div.site {
 	  float: center;
 }
 div.banner {
-  background-color: rgba(140, 0, 255, 0.5);
-  margin: auto;
-    max-width: 70%;
-   border-radius: 5px;
+        background-color: rgba(140, 0, 255, 0.5);
+        margin: auto;
+        max-width: 70%;
+        border-radius: 5px;
   	padding-top: 15px;
 	padding-left: 15px;
 	padding-bottom: 15px;
 	border-style: solid;
 	border-color: #999999;
-	 border-width: 2px;
-	 font-family: Contemporary, Verdana, Arial;
-	   float: center;
+	border-width: 2px;
+	font-family: Contemporary, Verdana, Arial;
+	float: center;
 }
 
 body {
@@ -23,48 +28,48 @@ body {
 
 div.section1 {
 	margin: auto;
-	  max-width: 70%;
-  background-color: rgba(244, 167, 0, 0.5);
-   border-radius: 5px;
+	max-width: 70%;
+        background-color: rgba(244, 167, 0, 0.5);
+        border-radius: 5px;
   	padding-top: 15px;
 	padding-left: 15px;
 	padding-bottom: 15px;
 	max-width="95%";
 	border-style: solid;
 	border-color: #999999;
-	 border-width: 2px;
-	  font-family: Contemporary, Verdana, Arial;
-	    float: center;
+	border-width: 2px;
+	font-family: Contemporary, Verdana, Arial;
+	float: center;
 }
 
 div.section2 {
 	margin: auto;
-  background-color: rgba(168, 86, 106, 0.5);
-    max-width: 70%;
-   border-radius: 5px;
+        background-color: rgba(168, 86, 106, 0.5);
+        max-width: 70%;
+        border-radius: 5px;
   	padding-top: 15px;
 	padding-left: 15px;
 	padding-bottom: 15px;
 	max-width="95%";
 	border-style: solid;
 	border-color: #999999;
-	 border-width: 2px;
-	  font-family: Contemporary, Verdana, Arial;
+	border-width: 2px;
+	font-family: Contemporary, Verdana, Arial;
 }
 
 div.footer {
-  background-color: rgba(140, 0, 255, 0.5);
-    float: ;
-    max-width: 70%;
-    border-radius: 5px;
+        background-color: rgba(140, 0, 255, 0.5);
+        float: ;
+        max-width: 70%;
+        border-radius: 5px;
   	padding-top: 15px;
 	padding-left: 15px;
 	padding-bottom: 15px;
 	border-style: solid;
 	border-color: #999999;
-	 border-width: 2px;
+	border-width: 2px;
 	margin: auto;
-	  font-family: Contemporary, Verdana, Arial;
+	font-family: Contemporary, Verdana, Arial;
 }
 
 
