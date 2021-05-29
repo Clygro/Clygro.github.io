@@ -10,7 +10,7 @@ div.site {
 @media screen and (max-width: 600px) {
   div.banner {
     float: none;
-    width: 100%;
+    max-width: 100%;
   }
 }
 
@@ -36,7 +36,7 @@ body {
 
 @media screen and (max-width: 600px) {
   div.section1 {
-    width: 100%;
+    max-width: 100%;
   }
 }
 
@@ -58,7 +58,7 @@ div.section1 {
 
 @media screen and (max-width: 600px) {
   div.section2 {
-    width: 100%;
+    max-width: 100%;
   }
 }
 
@@ -94,7 +94,7 @@ div.footer {
 
 div.image {
         margin: auto;
-	max width: 70%
+	max-width: 70%
 }
 
 a:link {
@@ -132,7 +132,7 @@ a:active {
 
 @media screen and (max-width: 600px) {
   div.footer {
-    width: 100%;
+    max-width: 100%;
   }
 }
 
