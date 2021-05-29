@@ -72,6 +72,10 @@ div.footer {
 	font-family: Contemporary, Verdana, Arial;
 }
 
+div.image {
+        margin: auto;
+	max width: 70%
+}
 
 a:link {
   text-decoration: none;
