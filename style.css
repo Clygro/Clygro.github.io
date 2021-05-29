@@ -24,6 +24,7 @@ div.banner {
 body {
 	color: white;
 	background-color: #000000;
+        background-image: url("ClyBackground.png");
 }
 
 div.section1 {
