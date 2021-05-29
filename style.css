@@ -3,6 +3,10 @@
   src: url (Contemporary-Regular.ttf);
 }
 
+div.youtube {
+          padding-right: 5px;
+}
+
 div.site {
 	  float: center;
 }
