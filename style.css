@@ -25,6 +25,7 @@ body {
 	color: white;
 	background-color: #000000;
         background-image: url("ClyBackground.png");
+	background-opacity: 50%;
 }
 
 div.section1 {
