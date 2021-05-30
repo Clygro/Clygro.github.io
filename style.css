@@ -11,7 +11,7 @@ div.site {
 	  float: center;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   div.banner {
     float: none;
     max-width: 100% !important;
@@ -38,7 +38,7 @@ body {
 	background-color: #000000;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   div.section1 {
     max-width: 100% !important;
   }
@@ -60,7 +60,7 @@ div.section1 {
 	float: center;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   div.section2 {
     max-width: 100% !important;
   }
@@ -134,7 +134,7 @@ a:active {
   border-color: #999999;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   div.footer {
     max-width: 100% !important;
   }
