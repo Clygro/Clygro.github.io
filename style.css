@@ -14,7 +14,7 @@ div.site {
 @media screen and (max-width: 600px) {
   div.banner {
     float: none;
-    max-width: 100%;
+    max-width: 100% !important;
   }
 }
 
@@ -40,7 +40,7 @@ body {
 
 @media screen and (max-width: 600px) {
   div.section1 {
-    max-width: 100%;
+    max-width: 100% !important;
   }
 }
 
@@ -62,7 +62,7 @@ div.section1 {
 
 @media screen and (max-width: 600px) {
   div.section2 {
-    max-width: 100%;
+    max-width: 100% !important;
   }
 }
 
@@ -136,7 +136,7 @@ a:active {
 
 @media screen and (max-width: 600px) {
   div.footer {
-    max-width: 100%;
+    max-width: 100% !important;
   }
 }
 
