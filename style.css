@@ -19,7 +19,7 @@ div.site {
 }
 
 div.banner {
-        background-color: rgba(255, 205, 0, 0.5);
+        background-color: rgba(107, 0, 255, 0.5);
         margin: auto;
         max-width: 70%;
         border-radius: 5px;
@@ -47,7 +47,7 @@ body {
 div.section1 {
 	margin: auto;
 	max-width: 70%;
-        background-color: rgba(244, 167, 0, 0.5);
+        background-color: rgba(255, 205, 0, 0.5);
         border-radius: 5px;
   	padding-top: 15px;
 	padding-left: 15px;
