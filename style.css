@@ -19,7 +19,7 @@ div.site {
 }
 
 div.banner {
-        background-color: rgba(107, 0, 255, 0.5);
+        background-color: rgba(107, 0, 255, 0.25);
         margin: auto;
         max-width: 70%;
         border-radius: 2px;
@@ -47,7 +47,7 @@ body {
 div.section1 {
 	margin: auto;
 	max-width: 70%;
-        background-color: rgba(255, 205, 0, 0.5);
+        background-color: rgba(255, 205, 0, 0.25);
         border-radius: 2px;
   	padding-top: 2px;
 	padding-left: 2px;
@@ -68,7 +68,7 @@ div.section1 {
 
 div.section2 {
 	margin: auto;
-        background-color: rgba(244, 125, 152, 0.5);
+        background-color: rgba(244, 125, 152, 0.25);
         max-width: 70%;
         border-radius: 2px;
   	padding-top: 2px;
@@ -82,7 +82,7 @@ div.section2 {
 }
 
 div.footer {
-        background-color: rgba(107, 0, 255, 0.5);
+        background-color: rgba(107, 0, 255, 0.25);
         float: ;
         max-width: 70%;
         border-radius: 2px;
