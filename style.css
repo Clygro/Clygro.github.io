@@ -19,7 +19,7 @@ div.site {
 }
 /* Purple Colour */
 div.banner {
-        background-color: rgba(86, 0, 204, 0.35);
+        background-color: rgba(86, 0, 204, 0.25);
         margin: auto;
         max-width: 70%;
         border-radius: 5px;
@@ -48,7 +48,7 @@ body {
 div.section1 {
 	margin: auto;
 	max-width: 70%;
-        background-color: rgba(204, 164, 0, 0.35);
+        background-color: rgba(204, 164, 0, 0.25);
         border-radius: 5px;
   	padding-top: 5px;
 	padding-left: 5px;
@@ -70,7 +70,7 @@ div.section1 {
 /* Pink Colour */
 div.section2 {
 	margin: auto;
-        background-color: rgba(194, 100, 124, 0.35);
+        background-color: rgba(194, 100, 124, 0.25);
         max-width: 70%;
         border-radius: 5px;
   	padding-top: 5px;
@@ -85,7 +85,7 @@ div.section2 {
 
 /* Purple Colour */
 div.footer {
-        background-color: rgba(86, 0, 204, 0.35);
+        background-color: rgba(86, 0, 204, 0.25);
         float: ;
         max-width: 70%;
         border-radius: 5px;
