@@ -17,9 +17,9 @@ div.site {
     max-width: 100% !important;
   }
 }
-
+/* Purple Colour */
 div.banner {
-        background-color: rgba(107, 0, 255, 0.25);
+        background-color: rgba(86, 0, 204, 0.5);
         margin: auto;
         max-width: 70%;
         border-radius: 5px;
@@ -44,10 +44,11 @@ body {
   }
 }
 
+/* Yellow Colour */
 div.section1 {
 	margin: auto;
 	max-width: 70%;
-        background-color: rgba(255, 205, 0, 0.25);
+        background-color: rgba(204, 164, 0, 0.5);
         border-radius: 5px;
   	padding-top: 5px;
 	padding-left: 5px;
@@ -66,9 +67,10 @@ div.section1 {
   }
 }
 
+/* Pink Colour */
 div.section2 {
 	margin: auto;
-        background-color: rgba(244, 125, 152, 0.25);
+        background-color: rgba(194, 100, 124, 0.5);
         max-width: 70%;
         border-radius: 5px;
   	padding-top: 5px;
@@ -81,8 +83,9 @@ div.section2 {
 	font-family: Contemporary, Verdana, Arial;
 }
 
+/* Purple Colour */
 div.footer {
-        background-color: rgba(107, 0, 255, 0.25);
+        background-color: rgba(86, 0, 204, 0.5);
         float: ;
         max-width: 70%;
         border-radius: 5px;
