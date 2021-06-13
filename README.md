@@ -1,2 +1,2 @@
 # Clygro.github.io
-The Clygro Website.
+The very lightweight Clygro Website.
