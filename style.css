@@ -129,7 +129,7 @@ a:active {
 }
 
 .button {
-  background-color: #ffcd00; 
+  background-color: rgb(255, 205, 0); 
   border-width: 1px;
   color: white;
   padding: 2px 2px;
