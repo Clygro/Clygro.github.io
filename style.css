@@ -129,16 +129,17 @@ a:active {
 }
 
 .button {
-  background-color: #013220; 
-  border-width: 2px;
+  background-color: ##ffcd00; 
+  border-width: 1px;
   color: white;
-  padding: 5px 5px;
+  padding: 2px 2px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
-  border-radius: 2px;
+  font-size: 14px;
+  border-radius: 1px;
   border-color: #999999;
+  font-family: Contemporary, Verdana, Arial;
 }
 
 @media screen and (max-width: 800px) {
