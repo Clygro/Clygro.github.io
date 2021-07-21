@@ -3,6 +3,35 @@
   src: url("Contemporary-Regular.ttf");
 }
 
+.h1 {
+        line-height: 0px;
+}
+
+
+.h2 {
+        line-height: 0px;
+}
+
+
+.h3 {
+        line-height: 0px;
+}
+
+
+.h4 {
+        line-height: 0px;
+}
+
+
+.h5 {
+        line-height: 0px;
+}
+
+
+.h6 {
+        line-height: 0px;
+}
+
 div.youtube {
           margin-right: 5px;
 }
