@@ -8,7 +8,37 @@
 </div>
 <center>
   <br>
-  <script>
+<style>
+
+body {
+	color: white;
+	background-color: #000000;
+}
+
+.clockdate-wrapper {
+    background-color: rgba(194, 100, 124, 0.25);
+    padding:1px;
+    max-width:350px;
+    width:100%;
+    text-align:center;
+    border-radius:5px;
+    margin:0 auto;
+    margin-top:10%;
+    border-style: solid;
+	border-color: #999999;
+	border-width: 2px;
+}
+
+#clock{
+    background-color: rgba(86, 0, 204, 0);
+    font-family: contemporary;
+    font-size:60px;
+    text-shadow:0px 0px 1px #fff;
+    color:#fff;
+}
+
+</style>
+<script>
 function startTime() {
     var today = new Date();
     var hr = today.getHours();
@@ -29,13 +59,13 @@ function checkTime(i) {
 </script>
 <div class="status">
 
+
 <div id="clockdate">
   <div class="clockdate-wrapper">
     <div id="clock"></div>
     <div id="date"></div>
   </div>
 </div>
-</div>  
   <br>
 <div class="section1">
 <a href="https://www.youtube.com/">YouTube -</a>
