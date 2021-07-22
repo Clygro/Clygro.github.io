@@ -1,14 +1,98 @@
 <html>
 <title>New Tab</title>
 <link rel="stylesheet" href="style.css">
-<body> 
+<body onload="startTime()">
 <div class="banner">
 <h1>New Tab</h1>
   <a href="tab_info.html">How To Use</a>
 </div>
 <center>
+<style>
+
+body {
+	color: white;
+    background-image: url("Outside Rainbows.png");
+    background-size:cover;
+    background-color: #000000;
+}
+
+div.shortcuts {
+	margin: auto;
+	max-width: 350px;
+    background-color: rgba(204, 164, 0, 0.25);
+    border-radius: 5px;
+  	padding-top: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+    margin-bottom:35%;
+	border-style: solid;
+	border-color: #999999;
+	border-width: 2px;
+	font-family: Contemporary, Verdana, Arial;
+	float: center;
+}
+
+.clockdate-wrapper {
+    background-color: rgba(194, 100, 124, 0.25);
+    padding:1px;
+    max-width:350px;
+    width:100%;
+    text-align:center;
+    border-radius:5px;
+    margin:0 auto;
+    margin-top:5%;
+    margin-bottom:0%;
+    border-radius: 5px;
+  	padding-top: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+    border-style: solid;
+	border-color: #999999;
+	border-width: 2px;
+}
+
+#clock{
+    background-color: rgba(86, 0, 204, 0);
+    font-family: contemporary;
+    font-size:60px;
+    text-shadow:0px 0px 10px #000000;
+    color:#fff;
+}
+
+</style>
+<script>
+function startTime() {
+    var today = new Date();
+    var hr = today.getHours();
+    var min = today.getMinutes();
+    var sec = today.getSeconds();
+    //Add a zero in front of numbers<10
+    min = checkTime(min);
+    sec = checkTime(sec);
+    document.getElementById("clock").innerHTML = hr + " : " + min + " : " + sec;
+    var time = setTimeout(function(){ startTime() }, 500);
+}
+function checkTime(i) {
+    if (i < 10) {
+        i = "0" + i;
+    }
+    return i;
+}
+</script>
+<div class="status">
+
+
+<div id="clockdate">
+  <div class="clockdate-wrapper">
+    <div id="clock"></div>
+    <div id="date"></div>
+  </div>
+</div>
+</div>
   <br>
-<div class="section1">
+<div class="shortcuts">
 <a href="https://www.youtube.com/">YouTube -</a>
 <a href="https://www.twitter.com/">Twitter -</a>
 <a href="https://www.twitch.tv/">Twitch</a>
