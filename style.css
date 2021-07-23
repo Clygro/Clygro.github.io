@@ -22,7 +22,7 @@ div.banner {
         background-color: rgba(86, 0, 204, 0.25);
         margin: auto;
         max-width: 70%;
-        border-radius: 5px;
+        border-radius: 2px;
   	padding-top: 5px;
 	padding-left: 5px;
         padding-right: 5px;
@@ -50,7 +50,7 @@ div.section1 {
 	margin: auto;
 	max-width: 70%;
         background-color: rgba(204, 164, 0, 0.25);
-        border-radius: 5px;
+        border-radius: 2px;
   	padding-top: 5px;
 	padding-left: 5px;
 	padding-right: 5px;
@@ -74,7 +74,7 @@ div.section2 {
 	margin: auto;
         background-color: rgba(194, 100, 124, 0.25);
         max-width: 70%;
-        border-radius: 5px;
+        border-radius: 2px;
   	padding-top: 5px;
 	padding-left: 5px;
 	padding-right: 5px;
@@ -91,7 +91,7 @@ div.footer {
         background-color: rgba(86, 0, 204, 0.25);
         float: ;
         max-width: 70%;
-        border-radius: 5px;
+        border-radius: 2px;
   	padding-top: 5px;
 	padding-left: 5px;
 	padding-right: 5px;
@@ -108,7 +108,7 @@ div.tweet {
         background-color: rgba(0, 0, 0, 0.25);
         margin: auto;
         max-width: 70%;
-        border-radius: 5px;
+        border-radius: 2px;
   	padding-top: 5px;
 	padding-left: 5px;
         padding-right: 5px;
