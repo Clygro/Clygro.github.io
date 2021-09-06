@@ -70,14 +70,14 @@ div.banner {
         background-color: rgba(86, 0, 204, 0.25);
         margin: auto;
         max-width: 70%;
-        border-radius: 3px;
+        border-radius: 0px;
   	padding-top: 2px;
 	padding-left: 2px;
         padding-right: 2px;
 	padding-bottom: 2px;
 	border-style: solid;
 	border-color: #999999;
-	border-width: 2px;
+	border-width: 1px;
 	font-family: Contemporary, Verdana, Arial;
 	float: center;
 }
@@ -98,7 +98,7 @@ div.section1 {
 	margin: auto;
 	max-width: 70%;
         background-color: rgba(204, 164, 0, 0.25);
-        border-radius: 3px;
+        border-radius: 0px;
   	padding-top: 2px;
 	padding-left: 2px;
 	padding-right: 2px;
@@ -106,7 +106,7 @@ div.section1 {
 	max-width="95%";
 	border-style: solid;
 	border-color: #999999;
-	border-width: 2px;
+	border-width: 1px;
 	font-family: Contemporary, Verdana, Arial;
 	float: center;
 }
@@ -122,7 +122,7 @@ div.section2 {
 	margin: auto;
         background-color: rgba(194, 100, 124, 0.25);
         max-width: 70%;
-        border-radius: 3px;
+        border-radius: 0px;
   	padding-top: 2px;
 	padding-left: 2px;
 	padding-right: 2px;
@@ -130,7 +130,7 @@ div.section2 {
 	max-width="95%";
 	border-style: solid;
 	border-color: #999999;
-	border-width: 2px;
+	border-width: 1px;
 	font-family: Contemporary, Verdana, Arial;
 }
 
@@ -145,7 +145,7 @@ div.section3 {
 	margin: auto;
 	max-width: 70%;
         background-color: rgba(86, 0, 204, 0.25);
-        border-radius: 3px;
+        border-radius: 0px;
   	padding-top: 2px;
 	padding-left: 2px;
 	padding-right: 2px;
@@ -153,7 +153,7 @@ div.section3 {
 	max-width="95%";
 	border-style: solid;
 	border-color: #999999;
-	border-width: 2px;
+	border-width: 1px;
 	font-family: Contemporary, Verdana, Arial;
 	float: center;
 }
@@ -169,7 +169,7 @@ div.section4 {
 	margin: auto;
 	max-width: 70%;
         background-color: rgba(204, 164, 0, 0.25);
-        border-radius: 3px;
+        border-radius: 0px;
   	padding-top: 2px;
 	padding-left: 2px;
 	padding-right: 2px;
@@ -177,7 +177,7 @@ div.section4 {
 	max-width="95%";
 	border-style: solid;
 	border-color: #999999;
-	border-width: 2px;
+	border-width: 1px;
 	font-family: Contemporary, Verdana, Arial;
 	float: center;
 }
@@ -187,14 +187,14 @@ div.footer {
         background-color: rgba(86, 0, 204, 0.25);
         float: ;
         max-width: 70%;
-        border-radius: 3px;
+        border-radius: 0px;
   	padding-top: 2px;
 	padding-left: 2px;
 	padding-right: 2px;
 	padding-bottom: 2px;
 	border-style: solid;
 	border-color: #999999;
-	border-width: 2px;
+	border-width: 1px;
 	margin: auto;
 	font-family: Contemporary, Verdana, Arial;
 }
@@ -204,14 +204,14 @@ div.tweet {
         background-color: rgba(0, 0, 0, 0.25);
         margin: auto;
         max-width: 70%;
-        border-radius: 3px;
+        border-radius: 0px;
   	padding-top: 2px;
 	padding-left: 2px;
         padding-right: 2px;
 	padding-bottom: 2px;
 	border-style: solid;
 	border-color: #999999;
-	border-width: 2px;
+	border-width: 1px;
 	font-family: Contemporary, Verdana, Arial;
 	float: center;
 }
@@ -242,7 +242,7 @@ a:active {
 }
 
 .button {
-  background-color: rgb(204, 164, 0); 
+  background-color: rgb(255, 255, 255); 
   border-width: 1px;
   color: white;
   padding: 2px 2px;
@@ -262,9 +262,9 @@ a:active {
 }
 
 div.image {
-  border-width: 2px;
+  border-width: 0px;
   color: white;
-  border-radius: 2px;
+  border-radius: 1px;
   border-color: #999999;
 }
 
