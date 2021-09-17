@@ -77,7 +77,7 @@ div.banner {
 	padding-bottom: 2px;
 	border-style: solid;
 	border-color: #999999;
-	border-width: 1px;
+	border-width: 2px;
 	font-family: Contemporary, Verdana, Arial;
 	float: center;
 }
@@ -106,7 +106,7 @@ div.section1 {
 	max-width="95%";
 	border-style: solid;
 	border-color: #999999;
-	border-width: 1px;
+	border-width: 2px;
 	font-family: Contemporary, Verdana, Arial;
 	float: center;
 }
@@ -130,7 +130,7 @@ div.section2 {
 	max-width="95%";
 	border-style: solid;
 	border-color: #999999;
-	border-width: 1px;
+	border-width: 2px;
 	font-family: Contemporary, Verdana, Arial;
 }
 
@@ -153,7 +153,7 @@ div.section3 {
 	max-width="95%";
 	border-style: solid;
 	border-color: #999999;
-	border-width: 1px;
+	border-width: 2px;
 	font-family: Contemporary, Verdana, Arial;
 	float: center;
 }
@@ -177,7 +177,7 @@ div.section4 {
 	max-width="95%";
 	border-style: solid;
 	border-color: #999999;
-	border-width: 1px;
+	border-width: 2px;
 	font-family: Contemporary, Verdana, Arial;
 	float: center;
 }
@@ -194,7 +194,7 @@ div.footer {
 	padding-bottom: 2px;
 	border-style: solid;
 	border-color: #999999;
-	border-width: 1px;
+	border-width: 2px;
 	margin: auto;
 	font-family: Contemporary, Verdana, Arial;
 }
@@ -211,7 +211,7 @@ div.tweet {
 	padding-bottom: 2px;
 	border-style: solid;
 	border-color: #999999;
-	border-width: 1px;
+	border-width: 2px;
 	font-family: Contemporary, Verdana, Arial;
 	float: center;
 }
@@ -250,7 +250,7 @@ a:active {
   text-decoration: none;
   display: inline-block;
   font-size: 14px;
-  border-radius: 1px;
+  border-radius: 2px;
   border-color: #999999;
   font-family: Contemporary, Verdana, Arial;
 }
