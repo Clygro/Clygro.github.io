@@ -99,6 +99,7 @@ div.banner {
 body {
 	color: white;
 	background-color: #000000;
+	size: 14px;
 }
 
 /* Yellow Colour */
@@ -129,7 +130,6 @@ div.section2 {
 	padding-left: 5px;
 	padding-right: 5px;
 	padding-bottom: 5px;
-	max-width="95%";
 	border-style: solid;
 	border-color: #999999;
 	border-width: 2px;
@@ -212,21 +212,25 @@ div.image {
 a:link {
   text-decoration: none;
   color: #a8a7a7;
+  size: 14px;	
 }
 
 a:visited {
   text-decoration: none;
   color: #a8a7a7;
+  size: 14px;		
 }
 
 a:hover {
   text-decoration: none;
   color: #a8a7a7;
+  size: 14px;		
 }
 
 a:active {
   text-decoration: none;
   color: #a8a7a7;
+  size: 14px;	
 }
 
 .button {
