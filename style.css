@@ -59,22 +59,16 @@ h6 {
   margin-bottom: 2px;
 }
 
-@media screen and (max-width: 800px) {
-  div.banner {
-    float: none;
-    max-width: 100% !important;
-  }
-}
 /* Purple Colour */
 div.banner {
         background-color: rgba(86, 0, 204, 0.25);
         margin: auto;
-        max-width: 70%;
+        max-width: 100%;
         border-radius: 0px;
-  	padding-top: 2px;
-	padding-left: 2px;
-        padding-right: 2px;
-	padding-bottom: 2px;
+  	padding-top: 5px;
+	padding-left: 5px;
+        padding-right: 5px;
+	padding-bottom: 5px;
 	border-style: solid;
 	border-color: #999999;
 	border-width: 2px;
@@ -87,46 +81,34 @@ body {
 	background-color: #000000;
 }
 
-@media screen and (max-width: 800px) {
-  div.section1 {
-    max-width: 100% !important;
-  }
-}
-
 /* Yellow Colour */
 div.section1 {
 	margin: auto;
-	max-width: 70%;
+	max-width: 100%;
         background-color: rgba(204, 164, 0, 0.25);
         border-radius: 0px;
-  	padding-top: 2px;
-	padding-left: 2px;
-	padding-right: 2px;
-	padding-bottom: 2px;
+  	padding-top: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
 	max-width="95%";
 	border-style: solid;
 	border-color: #999999;
 	border-width: 2px;
 	font-family: Contemporary, Verdana, Arial;
 	float: center;
-}
-
-@media screen and (max-width: 800px) {
-  div.section2 {
-    max-width: 100% !important;
-  }
 }
 
 /* Pink Colour */
 div.section2 {
 	margin: auto;
         background-color: rgba(194, 100, 124, 0.25);
-        max-width: 70%;
+        max-width: 100%;
         border-radius: 0px;
-  	padding-top: 2px;
-	padding-left: 2px;
-	padding-right: 2px;
-	padding-bottom: 2px;
+  	padding-top: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
 	max-width="95%";
 	border-style: solid;
 	border-color: #999999;
@@ -134,23 +116,16 @@ div.section2 {
 	font-family: Contemporary, Verdana, Arial;
 }
 
-@media screen and (max-width: 800px) {
-  div.section3 {
-    max-width: 100% !important;
-  }
-}
-
 /* Purple Colour */
 div.section3 {
 	margin: auto;
-	max-width: 70%;
+	max-width: 100%;
         background-color: rgba(86, 0, 204, 0.25);
         border-radius: 0px;
-  	padding-top: 2px;
-	padding-left: 2px;
-	padding-right: 2px;
-	padding-bottom: 2px;
-	max-width="95%";
+  	padding-top: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
 	border-style: solid;
 	border-color: #999999;
 	border-width: 2px;
@@ -158,23 +133,16 @@ div.section3 {
 	float: center;
 }
 
-@media screen and (max-width: 800px) {
-  div.section4 {
-    max-width: 100% !important;
-  }
-}
-
 /* Yellow Colour */
 div.section4 {
 	margin: auto;
-	max-width: 70%;
+	max-width: 100%;
         background-color: rgba(204, 164, 0, 0.25);
         border-radius: 0px;
-  	padding-top: 2px;
-	padding-left: 2px;
-	padding-right: 2px;
-	padding-bottom: 2px;
-	max-width="95%";
+  	padding-top: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
 	border-style: solid;
 	border-color: #999999;
 	border-width: 2px;
@@ -186,12 +154,12 @@ div.section4 {
 div.footer {
         background-color: rgba(86, 0, 204, 0.25);
         float: ;
-        max-width: 70%;
+        max-width: 100%;
         border-radius: 0px;
-  	padding-top: 2px;
-	padding-left: 2px;
-	padding-right: 2px;
-	padding-bottom: 2px;
+  	padding-top: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
 	border-style: solid;
 	border-color: #999999;
 	border-width: 2px;
@@ -203,12 +171,12 @@ div.footer {
 div.tweet {
         background-color: rgba(0, 0, 0, 0.25);
         margin: auto;
-        max-width: 70%;
+        max-width: 100%;
         border-radius: 0px;
-  	padding-top: 2px;
-	padding-left: 2px;
-        padding-right: 2px;
-	padding-bottom: 2px;
+  	padding-top: 5px;
+	padding-left: 5px;
+        padding-right: 5px;
+	padding-bottom: 5px;
 	border-style: solid;
 	border-color: #999999;
 	border-width: 2px;
@@ -245,7 +213,7 @@ a:active {
   background-color: rgb(255, 255, 255); 
   border-width: 1px;
   color: white;
-  padding: 2px 2px;
+  padding: 3px 3px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -253,12 +221,6 @@ a:active {
   border-radius: 2px;
   border-color: #999999;
   font-family: Contemporary, Verdana, Arial;
-}
-
-@media screen and (max-width: 800px) {
-  div.footer {
-    max-width: 100% !important;
-  }
 }
 
 div.image {
