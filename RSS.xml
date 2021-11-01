@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>RSS  Updates</title>
+ <description>This is a test of RSS</description>
+ <link>clygro.ml</link>
+ <pubDate>Mon, 01 Nov 2021 0:16:50 +0000</pubDate>
+ <ttl>1800</ttl>
+
+ <item>
+  <title>RSS 1</title>
+  <description>Here is some text containing an interesting description.</description>
+  <link>clygro.ml</link>
+  <pubDate>Monn, 01 Sep 2021 00:18:20 +0000</pubDate>
+ </item>
+
+</channel>
+</rss>
