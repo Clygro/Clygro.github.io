@@ -11,7 +11,14 @@
   <title>RSS 1</title>
   <description>Here is some text containing an interesting description.</description>
   <link>clygro.ml</link>
-  <pubDate>Monn, 01 Sep 2021 00:18:20 +0000</pubDate>
+  <pubDate>Monn, 01 Nov 2021 00:18:20 +0000</pubDate>
+ </item>
+ 
+  <item>
+  <title>It works</title>
+  <description>I got this working first time somehow, yay!!!</description>
+  <link>clygro.ml</link>
+  <pubDate>Mon, 01 Nov 2021 00:25:05 +0000</pubDate>
  </item>
 
 </channel>
