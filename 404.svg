@@ -24,8 +24,8 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="36.033221"
-     inkscape:cx="9.6161262"
-     inkscape:cy="5.619814"
+     inkscape:cx="-0.76318462"
+     inkscape:cy="9.0610828"
      inkscape:window-width="1920"
      inkscape:window-height="1040"
      inkscape:window-x="0"
@@ -364,5 +364,40 @@
        height="15"
        x="15"
        y="1" />
+    <rect
+       style="fill:#ffffff"
+       id="rect1974"
+       width="2"
+       height="2"
+       x="4"
+       y="5" />
+    <rect
+       style="fill:#ffffff"
+       id="rect1976"
+       width="2"
+       height="2"
+       x="10"
+       y="5" />
+    <rect
+       style="fill:#916f6f"
+       id="rect2000"
+       width="1"
+       height="2"
+       x="11"
+       y="10" />
+    <rect
+       style="fill:#916f6f"
+       id="rect2002"
+       width="3"
+       height="1"
+       x="12"
+       y="10" />
+    <rect
+       style="fill:#916f6f"
+       id="rect2004"
+       width="2"
+       height="2"
+       x="13"
+       y="9" />
   </g>
 </svg>
