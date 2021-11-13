@@ -5,22 +5,31 @@
 
   /* width */
 ::-webkit-scrollbar {
-  width: 16px;
+  width: 14px;
 }
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #000; 
+background: #000;
+border-style: solid;
+border-color: #999999;
+border-width: 2px;	
 }
  
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #555; 
+background: #555;
+border-style: solid;
+border-color: #999999;
+border-width: 2px;	
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #F4EED7; 
+background: #F4EED7;
+border-style: solid;
+border-color: #999999;
+border-width: 2px;	
 }
 
 div.youtube {
