@@ -198,7 +198,7 @@ div.footer {
 
 div.image1 {
         float: left;
-	width: 25%;
+	width: 240px;
 	margin: auto;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -212,7 +212,7 @@ div.image1 {
 
 div.image2 {
         float: left;
-	width: 25%;
+	width: 240px;
 	margin: auto;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -225,7 +225,7 @@ div.image2 {
 
 div.image3 {
         float: left;
-	width: 25%;
+	width: 240px;
 	margin: auto;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -238,7 +238,7 @@ div.image3 {
 
 div.image4 {
         float: left;
-	width: 25%;
+	width: 240px;
 	margin: auto;
 	padding-top: 5px;
 	padding-bottom: 5px;
