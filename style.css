@@ -199,6 +199,7 @@ div.footer {
 div.image1 {
         float: left;
 	width: 384px;
+	margin-top: 5px;
 	margin-right: 5px;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -206,13 +207,15 @@ div.image1 {
 	padding-right: 5px;
 	border-style: solid;
 	border-color: #999999;
-	border-width: 2px;	
+	border-width: 2px;
+	background-color: #000000;
 }
 
 
 div.image2 {
         float: left;
 	width: 384px;
+	margin-top: 5px;
 	margin-right: 5px;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -220,12 +223,14 @@ div.image2 {
 	padding-right: 5px;
 	border-style: solid;
 	border-color: #999999;
-	border-width: 2px;	
+	border-width: 2px;
+	background-color: #000000;
 }
 
 div.image3 {
         float: left;
 	width: 384px;
+	margin-top: 5px;
 	margin-right: 5px;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -233,12 +238,14 @@ div.image3 {
 	padding-right: 5px;
 	border-style: solid;
 	border-color: #999999;
-	border-width: 2px;	
+	border-width: 2px;
+	background-color: #000000;
 }
 
 div.image4 {
         float: left;
 	width: 384px;
+	margin-top: 5px;
 	margin-right: 5px;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -246,12 +253,14 @@ div.image4 {
 	padding-right: 5px;
 	border-style: solid;
 	border-color: #999999;
-	border-width: 2px;	
+	border-width: 2px;
+	background-color: #000000;
 }
 
 div.image5 {
         float: left;
 	width: 384px;
+	margin-top: 5px;
 	margin-right: 5px;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -259,13 +268,15 @@ div.image5 {
 	padding-right: 5px;
 	border-style: solid;
 	border-color: #999999;
-	border-width: 2px;	
+	border-width: 2px;
+	background-color: #000000;
 }
 
 
 div.image6 {
         float: left;
 	width: 384px;
+	margin-top: 5px;
 	margin-right: 5px;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -273,12 +284,14 @@ div.image6 {
 	padding-right: 5px;
 	border-style: solid;
 	border-color: #999999;
-	border-width: 2px;	
+	border-width: 2px;
+	background-color: #000000;
 }
 
 div.image7 {
         float: left;
 	width: 384px;
+	margin-top: 5px;
 	margin-right: 5px;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -286,12 +299,14 @@ div.image7 {
 	padding-right: 5px;
 	border-style: solid;
 	border-color: #999999;
-	border-width: 2px;	
+	border-width: 2px;
+	background-color: #000000;
 }
 
 div.image8 {
         float: left;
 	width: 384px;
+	margin-top: 5px;
 	margin-right: 5px;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -300,11 +315,13 @@ div.image8 {
 	border-style: solid;
 	border-color: #999999;
 	border-width: 2px;	
+	background-color: #000000;
 }
 
 div.image9 {
         float: left;
 	width: 384px;
+	margin-top: 5px;
 	margin-right: 5px;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -313,11 +330,13 @@ div.image9 {
 	border-style: solid;
 	border-color: #999999;
 	border-width: 2px;	
+	background-color: #000000;
 }
 
 div.image10 {
         float: left;
 	width: 384px;
+	margin-top: 5px;
 	margin-right: 5px;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -326,11 +345,13 @@ div.image10 {
 	border-style: solid;
 	border-color: #999999;
 	border-width: 2px;	
+	background-color: #000000;
 }
 
 div.image11 {
         float: left;
 	width: 384px;
+	margin-top: 5px;
 	margin-right: 5px;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -339,11 +360,13 @@ div.image11 {
 	border-style: solid;
 	border-color: #999999;
 	border-width: 2px;	
+	background-color: #000000;
 }
 
 div.image12 {
         float: left;
 	width: 384px;
+	margin-top: 5px;
 	margin-right: 5px;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -352,12 +375,14 @@ div.image12 {
 	border-style: solid;
 	border-color: #999999;
 	border-width: 2px;	
+	background-color: #000000;
 }
 
 
 div.image13 {
         float: left;
 	width: 384px;
+	margin-top: 5px;
 	margin-right: 5px;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -366,12 +391,14 @@ div.image13 {
 	border-style: solid;
 	border-color: #999999;
 	border-width: 2px;	
+	background-color: #000000;
 }
 
 
 div.image14 {
         float: left;
 	width: 384px;
+	margin-top: 5px;
 	margin-right: 5px;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -380,12 +407,14 @@ div.image14 {
 	border-style: solid;
 	border-color: #999999;
 	border-width: 2px;	
+	background-color: #000000;
 }
 
 
 div.image15 {
         float: left;
 	width: 384px;
+	margin-top: 5px;
 	margin-right: 5px;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -394,12 +423,14 @@ div.image15 {
 	border-style: solid;
 	border-color: #999999;
 	border-width: 2px;	
+	background-color: #000000;
 }
 
 
 div.image16 {
         float: left;
 	width: 384px;
+	margin-top: 5px;
 	margin-right: 5px;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -408,12 +439,14 @@ div.image16 {
 	border-style: solid;
 	border-color: #999999;
 	border-width: 2px;	
+	background-color: #000000;
 }
 
 
 div.image17 {
         float: left;
 	width: 384px;
+	margin-top: 5px;
 	margin-right: 5px;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -422,12 +455,14 @@ div.image17 {
 	border-style: solid;
 	border-color: #999999;
 	border-width: 2px;	
+	background-color: #000000;
 }
 
 
 div.image18 {
         float: left;
 	width: 384px;
+	margin-top: 5px;
 	margin-right: 5px;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -436,12 +471,14 @@ div.image18 {
 	border-style: solid;
 	border-color: #999999;
 	border-width: 2px;	
+	background-color: #000000;
 }
 
 
 div.image19 {
         float: left;
 	width: 384px;
+	margin-top: 5px;
 	margin-right: 5px;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -450,12 +487,14 @@ div.image19 {
 	border-style: solid;
 	border-color: #999999;
 	border-width: 2px;	
+	background-color: #000000;
 }
 
 
 div.image20 {
         float: left;
 	width: 384px;
+	margin-top: 5px;
 	margin-right: 5px;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -464,12 +503,14 @@ div.image20 {
 	border-style: solid;
 	border-color: #999999;
 	border-width: 2px;	
+	background-color: #000000;
 }
 
 
 div.image21 {
         float: left;
 	width: 384px;
+	margin-top: 5px;
 	margin-right: 5px;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -478,12 +519,14 @@ div.image21 {
 	border-style: solid;
 	border-color: #999999;
 	border-width: 2px;	
+	background-color: #000000;
 }
 
 
 div.image22 {
         float: left;
 	width: 384px;
+	margin-top: 5px;
 	margin-right: 5px;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -492,12 +535,14 @@ div.image22 {
 	border-style: solid;
 	border-color: #999999;
 	border-width: 2px;	
+	background-color: #000000;
 }
 
 
 div.image23 {
         float: left;
 	width: 384px;
+	margin-top: 5px;
 	margin-right: 5px;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -506,12 +551,14 @@ div.image23 {
 	border-style: solid;
 	border-color: #999999;
 	border-width: 2px;	
+	background-color: #000000;
 }
 
 
 div.image24 {
         float: left;
 	width: 384px;
+	margin-top: 5px;
 	margin-right: 5px;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -520,12 +567,14 @@ div.image24 {
 	border-style: solid;
 	border-color: #999999;
 	border-width: 2px;	
+	background-color: #000000;
 }
 
 
 div.image25 {
         float: left;
 	width: 384px;
+	margin-top: 5px;
 	margin-right: 5px;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -534,12 +583,14 @@ div.image25 {
 	border-style: solid;
 	border-color: #999999;
 	border-width: 2px;	
+	background-color: #000000;
 }
 
 
 div.image26 {
         float: left;
 	width: 384px;
+	margin-top: 5px;
 	margin-right: 5px;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -548,12 +599,14 @@ div.image26 {
 	border-style: solid;
 	border-color: #999999;
 	border-width: 2px;	
+	background-color: #000000;
 }
 
 
 div.image27 {
         float: left;
 	width: 384px;
+	margin-top: 5px;
 	margin-right: 5px;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -562,12 +615,14 @@ div.image27 {
 	border-style: solid;
 	border-color: #999999;
 	border-width: 2px;	
+	background-color: #000000;
 }
 
 
 div.image28 {
         float: left;
 	width: 384px;
+	margin-top: 5px;
 	margin-right: 5px;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -576,6 +631,7 @@ div.image28 {
 	border-style: solid;
 	border-color: #999999;
 	border-width: 2px;	
+	background-color: #000000;
 }
 
 /* Black Colour for Tweets*/
