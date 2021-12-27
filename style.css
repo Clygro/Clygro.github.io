@@ -196,7 +196,7 @@ div.footer {
 	font-family: Contemporary, Verdana, Arial;
 }
 
-div.image {
+div.image1 {
         float: left;
 	width: 25%;
 	margin: auto;
@@ -208,6 +208,47 @@ div.image {
 	border-color: #999999;
 	border-width: 2px;	
 }
+
+
+div.image2 {
+        float: left;
+	width: 25%;
+	margin: auto;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	border-style: solid;
+	border-color: #999999;
+	border-width: 2px;	
+}
+
+div.image3 {
+        float: left;
+	width: 25%;
+	margin: auto;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	border-style: solid;
+	border-color: #999999;
+	border-width: 2px;	
+}
+
+div.image4 {
+        float: left;
+	width: 25%;
+	margin: auto;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	border-style: solid;
+	border-color: #999999;
+	border-width: 2px;	
+}
+
 
 /* Black Colour for Tweets*/
 div.tweet {
