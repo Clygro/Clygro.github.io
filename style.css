@@ -32,10 +32,6 @@ border-color: #999999;
 border-width: 2px;	
 }
 
-div.youtube {
-          margin-right: 5px;
-}
-
 div.site {
 	  float: center;
 }
@@ -684,7 +680,8 @@ a:active {
 }
 
 kbd {
-  background-color: #000000;
+  background-color: #212121;
+  padding: 2px;
 }
 
 .button {
@@ -699,13 +696,6 @@ kbd {
   border-radius: 2px;
   border-color: #999999;
   font-family: Contemporary, Verdana, Arial;
-}
-
-div.image {
-  border-width: 0px;
-  color: white;
-  border-radius: 1px;
-  border-color: #999999;
 }
 
 div.footer-other {
