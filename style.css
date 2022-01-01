@@ -683,6 +683,10 @@ a:active {
   size: 14px;	
 }
 
+.kbd {
+  background=color: #000000;
+}
+
 .button {
   background-color: rgb(25, 25, 25); 
   border-width: 1px;
