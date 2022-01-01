@@ -659,25 +659,27 @@ div.image {
 
 a:link {
   text-decoration: none;
-  color: #a8a7a7;
+  color: #dcdcdc;
   size: 14px;	
 }
 
 a:visited {
   text-decoration: none;
-  color: #a8a7a7;
+  color: #dcdcdc;
   size: 14px;		
 }
 
 a:hover {
-  text-decoration: none;
-  color: #a8a7a7;
-  size: 14px;		
+  text-decoration: underline;
+  color: white;
+  size: 14px;
+  padding-left: 5px;
+  padding-right: 5px;	
 }
 
 a:active {
   text-decoration: none;
-  color: #a8a7a7;
+  color: #dcdcdc;
   size: 14px;	
 }
 
