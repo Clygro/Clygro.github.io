@@ -20,6 +20,14 @@
   <link>clygro.ml</link>
   <pubDate>Mon, 01 Nov 2021 00:25:05 +0000</pubDate>
  </item>
+ 
+   <item>
+  <title>Website Update</title>
+  <description>As you may have noticed, there have been changes to my website. I'll eventually be making a whole redesign of the website, including a mobile version of the website too.
+    But so far, I have done: Add a nice Favicon, Fixed the layout for the backgrounds page, and also in preparation for the mobile website, I have made a version of the UNTP designed for mobile, not everything is done mostly because I couldn't work out on how to do it myself, hopefully I'll do it at a later date with some research. You can go to the mobile version at https://clygro.github.io/tab-mobile. </description>
+  <link>clygro.github.io</link>
+  <pubDate>Sat, 01 Jan 2022 12:47:56 +0000</pubDate>
+ </item>
 
 </channel>
 </rss>
