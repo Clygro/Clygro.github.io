@@ -13,7 +13,7 @@
 background: #000;
 border-style: solid;
 border-color: #999999;
-border-width: 2px;	
+border-width: 1px;	
 }
  
 /* Handle */
@@ -29,7 +29,7 @@ border-width: 2px;
 background: #F4EED7;
 border-style: solid;
 border-color: #999999;
-border-width: 2px;	
+border-width: 4px;	
 }
 
 div.site {
