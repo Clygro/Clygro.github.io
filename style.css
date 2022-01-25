@@ -103,7 +103,7 @@ div.banner {
 
 body {
 	color: white;
-	background-color: #212121;
+	background-color: #000000;
 	size: 14px;
 }
 
@@ -646,11 +646,6 @@ div.tweet {
 	border-width: 2px;
 	font-family: Contemporary, Verdana, Arial;
 	float: center;
-}
-
-div.image {
-        margin: auto;
-	max-width: 70%
 }
 
 a:link {
