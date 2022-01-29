@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16.0px"
+   height="16.0px"
+   viewBox="0 0 16.0 16.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="Clygro Logo November 2021 Borderless.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:export-filename="/home/clygro/Clygro Logo November 2021 Circle small.png"
+   inkscape:export-xdpi="3072"
+   inkscape:export-ydpi="3072"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9970"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="90.509668"
+     inkscape:cx="-0.13810679"
+     inkscape:cy="8.6123396"
+     inkscape:window-width="3840"
+     inkscape:window-height="2123"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid10033" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid1998" />
+  </sodipodi:namedview>
+  <defs
+     id="defs9965" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#f4e3d7;stroke:#ff000b;stroke-width:0;fill-opacity:1;fill-rule:evenodd"
+       id="rect10098"
+       width="16"
+       height="16"
+       x="0"
+       y="0" />
+    <path
+       style="fill:#28170b;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 5,4 11,3 10,4 6,5 v 7 l 4,-1 1,1 -6,1 V 4"
+       id="path10316" />
+    <path
+       style="fill:#28170b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 10,15 1,-2 2,-1 1,-1 -1,-1 1,-2 1,-1 v 8 z"
+       id="path10419" />
+    <path
+       style="fill:#28170b;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 14,8 1,-1 h 1 v 9 h -6 v -1 l 1,-1 h 3 V 8"
+       id="path10799" />
+    <path
+       style="fill:#6b00ff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 15,7 14,4 10,2 8,3 7,2 5,1 h 10 v 6"
+       id="path10867" />
+    <path
+       style="fill:#ffcd00;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 1,15 2,-2 3,1 4,-1 1,2 z"
+       id="path11299" />
+    <path
+       style="fill:none;stroke:#28170b;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 8,15 C 8,15 1,15 1,8 1,1 8,1 8,1 c 0,0 7,0 7,7 0,7 -7,7 -7,7 z"
+       id="path2000" />
+    <path
+       style="fill:#28170b;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 10,15 -1,1 h 7 c 0,0 0,-10 0,-10 l -2,2 -1,2 1,1 -1,1 -2,1 -1,2"
+       id="path3144" />
+    <path
+       style="fill:#6b00ff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 7,2 3,0 h 13 c 0,0 0,10 0,10 L 14,4 10,2 8,3 7,2"
+       id="path3421" />
+    <path
+       style="fill:#f47d9b;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 3,2 5,0 H 0 V 16 H 4 L 2,9 4,4 3,2"
+       id="path3740" />
+    <path
+       style="fill:#ffcd00;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 10,13 2,3 c 0,0 -9,0 -9,0 v -3 l 3,1 4,-1"
+       id="path4001" />
+    <path
+       style="fill:#ffcd00;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 3,13 1,16 H 3 V 13"
+       id="path4135" />
+  </g>
+</svg>
