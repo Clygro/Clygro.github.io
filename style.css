@@ -173,9 +173,29 @@ div.section4 {
 	font-family: Contemporary, Verdana, Arial;
 	float: center;
 }
-
+/* display: grid; */
 div.about {
-display: none;
+  display: none;
+	width: 500px;
+	min-height: 400px;
+	height: 470px;
+	background-color: black;
+	border-width: 2px;
+	border: solid;
+	float: none;
+	padding: 5px;
+}
+/* display: flex; */
+div.aboutbanner {
+	display: none;
+	float: left;
+}
+/* display: flex */
+div.aboutdescription {
+	display: none;
+	float: left;
+	font-family: Contemporary;
+	font-size: 12px;
 }
 
 /* Purple Colour */
