@@ -175,7 +175,7 @@ div.section4 {
 }
 /* display: grid; */
 div.about {
-  display: none
+  display: none;
 	width: 500px;
 	min-height: 400px;
 	height: 400px;
