@@ -175,10 +175,10 @@ div.section4 {
 }
 /* display: grid; */
 div.about {
-  display: none;
+  display: grid;
 	width: 500px;
 	min-height: 400px;
-	height: 470px;
+	height: 400px;
 	background-color: black;
 	border-width: 2px;
 	border: solid;
@@ -187,15 +187,18 @@ div.about {
 }
 /* display: flex; */
 div.aboutbanner {
-	display: none;
+	display: grid;
 	float: left;
 }
 /* display: flex */
 div.aboutdescription {
-	display: none;
+	display: grid;
 	float: left;
 	font-family: Contemporary;
 	font-size: 12px;
+	position: absolute;
+	width: 290px;
+	margin-left: 208px;
 }
 
 /* Purple Colour */
@@ -714,12 +717,4 @@ kbd {
   border-radius: 2px;
   border-color: #999999;
   font-family: Contemporary, Verdana, Arial;
-}
-
-div.footer-other {
-width: 50%
-}
-
-div.copyright {
-  margin: auto;
 }
