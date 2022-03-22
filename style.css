@@ -739,10 +739,12 @@ kbd {
   display: inline-block;
   font-size: 14px;
   border-radius: 0px;
-	border-width: 2px;
+  border-width: 2px;
   border-color: #999999;
   font-family: Contemporary, Verdana, Arial;
-			box-shadow: 0px 0px 15px #000000;
+  box-shadow: 0px 0px 15px #000000;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 br {
