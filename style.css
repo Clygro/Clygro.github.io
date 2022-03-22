@@ -3,6 +3,15 @@
   src: url("Contemporary-Regular.ttf");
 }
 
+hr {
+  height: 2px;
+	border: none;
+	background-color: #999999;
+	margin-top: 3px;
+	margin-bottom: 3px;
+	box-shadow: 0px 0px 15px #000000;
+}
+
   /* width */
 ::-webkit-scrollbar {
   width: 14px;
@@ -86,6 +95,7 @@ h6 {
 
 /* Purple Colour */
 div.banner {
+	margin-top: 2px;
         background-color: rgba(86, 0, 204, 0.25);
         margin: auto;
         max-width: 100%;
@@ -109,6 +119,7 @@ body {
 
 /* Yellow Colour */
 div.section1 {
+	margin-top: 10px;
 	max-width: 100%;
         background-color: rgba(204, 164, 0, 0.25);
         border-radius: 0px;
@@ -122,11 +133,12 @@ div.section1 {
 	border-width: 2px;
 	font-family: Contemporary, Verdana, Arial;
 	float: center;
+	box-shadow: 0px 0px 15px #000000;
 }
 
 /* Pink Colour */
 div.section2 {
-	margin: auto;
+	margin-top: 10px;
         background-color: rgba(194, 100, 124, 0.25);
         max-width: 100%;
         border-radius: 0px;
@@ -138,11 +150,12 @@ div.section2 {
 	border-color: #999999;
 	border-width: 2px;
 	font-family: Contemporary, Verdana, Arial;
+	box-shadow: 0px 0px 15px #000000;
 }
 
 /* Purple Colour */
 div.section3 {
-	margin: auto;
+	margin-top: 10px;
 	max-width: 100%;
         background-color: rgba(86, 0, 204, 0.25);
         border-radius: 0px;
@@ -155,11 +168,12 @@ div.section3 {
 	border-width: 2px;
 	font-family: Contemporary, Verdana, Arial;
 	float: center;
+		box-shadow: 0px 0px 15px #000000;
 }
 
 /* Yellow Colour */
 div.section4 {
-	margin: auto;
+	margin-top: 10px;
 	max-width: 100%;
         background-color: rgba(204, 164, 0, 0.25);
         border-radius: 0px;
@@ -172,6 +186,7 @@ div.section4 {
 	border-width: 2px;
 	font-family: Contemporary, Verdana, Arial;
 	float: center;
+		box-shadow: 0px 0px 15px #000000;
 }
 /* display: grid; */
 div.about {
@@ -184,11 +199,13 @@ div.about {
 	border: solid;
 	float: none;
 	padding: 5px;
+		box-shadow: 0px 0px 15px #000000;
 }
 /* display: flex; */
 div.aboutbanner {
 	display: grid;
 	float: left;
+		box-shadow: 0px 0px 15px #000000;
 }
 /* display: flex */
 div.aboutdescription {
@@ -203,6 +220,7 @@ div.aboutdescription {
 
 /* Purple Colour */
 div.footer {
+	margin-top: 10px;
         background-color: rgba(86, 0, 204, 0.25);
         float: auto;
         max-width: 100%;
@@ -214,8 +232,8 @@ div.footer {
 	border-style: solid;
 	border-color: #999999;
 	border-width: 2px;
-	margin: auto;
 	font-family: Contemporary, Verdana, Arial;
+		box-shadow: 0px 0px 15px #000000;
 }
 
 div.image1 {
@@ -692,6 +710,7 @@ a:hover {
   size: 14px;
   padding-left: 5px;
   padding-right: 5px;	
+	text-shadow: 0px 0px 15px #ffffff;
 }
 
 a:active {
@@ -703,6 +722,10 @@ a:active {
 kbd {
   background-color: #212121;
   padding: 2px;
+			box-shadow: 0px 0px 15px #000000;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
 }
 
 .button {
@@ -714,7 +737,9 @@ kbd {
   text-decoration: none;
   display: inline-block;
   font-size: 14px;
-  border-radius: 2px;
+  border-radius: 0px;
+	border-width: 2px;
   border-color: #999999;
   font-family: Contemporary, Verdana, Arial;
+			box-shadow: 0px 0px 15px #000000;
 }
