@@ -720,7 +720,8 @@ a:active {
 }
 
 kbd {
-        margin: 1px;
+        margin-top: 5px;
+        margin-bottom: 5px;
         background-color: #212121;
         padding: 2px;
         box-shadow: 0px 0px 10px #000000;
