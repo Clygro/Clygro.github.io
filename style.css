@@ -720,12 +720,14 @@ a:active {
 }
 
 kbd {
-  background-color: #212121;
-  padding: 2px;
-			box-shadow: 0px 0px 15px #000000;
+        margin: 1px;
+        background-color: #212121;
+        padding: 2px;
+        box-shadow: 0px 0px 10px #000000;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #999999;
+}
 }
 
 .button {
