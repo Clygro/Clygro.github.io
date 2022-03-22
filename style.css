@@ -743,3 +743,8 @@ kbd {
   font-family: Contemporary, Verdana, Arial;
 			box-shadow: 0px 0px 15px #000000;
 }
+
+br {
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
