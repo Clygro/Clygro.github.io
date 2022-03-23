@@ -9,12 +9,12 @@ hr {
 	background-color: #999999;
 	margin-top: 3px;
 	margin-bottom: 3px;
-	box-shadow: 0px 0px 15px #000000;
+	box-shadow: 0px 0px 35px #000000;
 }
 
   /* width */
 ::-webkit-scrollbar {
-  width: 14px;
+  width: 16px;
 }
 
 /* Track */
@@ -22,7 +22,8 @@ hr {
 background: #000;
 border-style: solid;
 border-color: #999999;
-border-width: 1px;	
+border-width: 1px;
+box-shadow: 0px 0px 15px #000000;
 }
  
 /* Handle */
@@ -31,6 +32,7 @@ background: #555;
 border-style: solid;
 border-color: #999999;
 border-width: 2px;	
+	box-shadow: 0px 0px 15px #000000;
 }
 
 /* Handle on hover */
@@ -39,6 +41,7 @@ background: #F4EED7;
 border-style: solid;
 border-color: #999999;
 border-width: 3px;	
+	box-shadow: 0px 0px 15px #F4EED7;
 }
 
 div.site {
@@ -710,7 +713,7 @@ a:hover {
   size: 14px;
   padding-left: 5px;
   padding-right: 5px;	
-	text-shadow: 0px 0px 15px #ffffff;
+	text-shadow: 0px 0px 15px #F4EED7;
 }
 
 a:active {
