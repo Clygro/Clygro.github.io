@@ -17,7 +17,8 @@ div.announcement {
   height: 128px;
   text-align: center;
   display: grid;
-  margin: -10px;	
+  margin-left: -10px;
+  margin-right: -10px;
 }
 
   /* width */
