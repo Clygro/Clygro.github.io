@@ -21,6 +21,12 @@ div.announcement {
   margin-left: -10px;
   margin-right: -10px;
 }
+div.rss {
+        background-image: url("radio.svg");
+	height: 64px;
+	width: 64px;
+	float: right;
+}
 
   /* width */
 ::-webkit-scrollbar {
