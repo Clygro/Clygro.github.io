@@ -16,6 +16,7 @@ div.announcement {
   background-image: url("banner.svg");
   height: 128px;
   text-align: center;
+  display: grid;
 }
 
   /* width */
