@@ -26,6 +26,7 @@ div.rss {
 	height: 64px;
 	width: 64px;
 	float: right;
+	background-size: cover;
 }
 
   /* width */
