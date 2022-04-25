@@ -12,6 +12,12 @@ hr {
 	box-shadow: 0px 0px 35px #000000;
 }
 
+div.announcement {
+  background-image: url("banner.svg");
+  height: 128px;
+  text-align: center;
+}
+
   /* width */
 ::-webkit-scrollbar {
   width: 16px;
