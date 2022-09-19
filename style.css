@@ -1,3 +1,8 @@
+	body {
+    	background: #FFF;
+    	color: #000000;
+		font-family: Contemporary, Verdana, Arial;
+	}
 @media (prefers-color-scheme: light) {
 	body {
     	background: #FFF;
