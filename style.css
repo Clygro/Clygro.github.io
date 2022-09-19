@@ -244,7 +244,7 @@ p {
 
 	ul {
 		display: flex;
-		background-color: #333333;
+		background-color: #e5e5e5;
 		padding: 10px;
 		background: linear-gradient(#e5e5e5, #cccccc);
 		border-style: solid;
@@ -262,7 +262,7 @@ p {
 	}
 	footer {
 		display: block;
-		background-color: #6b00ff;
+		background-color: #ffcd00;
 		background-image: linear-gradient(#ffcd00, #cca400);
 		border-style: solid;
 		border-width: 1px;
@@ -271,7 +271,7 @@ p {
 	}
 	header {
 		display: block;
-		background-color: #6b00ff;
+		background-color: #ffcd00;
 		background-image: linear-gradient(#ffcd00, #cca400);
 		border-style: solid;
 		border-width: 1px;
@@ -306,3 +306,4 @@ main {
 img { 
 	display: none;	
 }
+
