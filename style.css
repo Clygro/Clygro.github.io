@@ -242,6 +242,53 @@ p {
 	}
 }
 
+	ul {
+		display: flex;
+		background-color: #333333;
+		padding: 10px;
+		background: linear-gradient(#e5e5e5, #cccccc);
+		border-style: solid;
+		border-width: 1px;
+		border-color: #999999;
+	}
+	kbd {
+		padding: 2px;
+		background: linear-gradient(#e5e5e5, #cccccc);
+		border-style: solid;
+		border-width: 1px;
+		border-color: #999999;
+		margin-right: 2px;
+		margin-left: 2px;
+	}
+	footer {
+		display: block;
+		background-color: #6b00ff;
+		background-image: linear-gradient(#ffcd00, #cca400);
+		border-style: solid;
+		border-width: 1px;
+		border-color: #999999;
+		padding: 10px;
+	}
+	header {
+		display: block;
+		background-color: #6b00ff;
+		background-image: linear-gradient(#ffcd00, #cca400);
+		border-style: solid;
+		border-width: 1px;
+		border-color: #999999;
+		padding: 10px;
+	}
+	a:hover {
+		color: black;
+		padding: 5px;
+		font-weight: bold, italic;
+	}
+	a {
+		color: #345f6d;
+		padding: 5px;
+		font-weight: bold;
+	}
+
 main {
 	padding: 10px;
 }
