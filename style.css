@@ -130,28 +130,28 @@ p {
 }
 @media (prefers-color-scheme: dark) {
 	a {
-		color: #6ec7e5;
+		color: #6ec7e5 !important;
 		padding: 5px;
 		font-weight: bold;
 	}
 }
 @media (prefers-color-scheme: dark) {
 	a:hover {
-		color: white;
+		color: white !important;
 		padding: 5px;
 		font-weight: bold;
 	}
 }
 @media (prefers-color-scheme: light) {
 	a {
-		color: #345f6d;
+		color: #345f6d !important;
 		padding: 5px;
 		font-weight: bold;
 	}
 }
 @media (prefers-color-scheme: light) {
 	a:hover {
-		color: black;
+		color: black !important;
 		padding: 5px;
 		font-weight: bold, italic;
 	}
@@ -159,8 +159,8 @@ p {
 @media (prefers-color-scheme: light) {
 	header {
 		display: block;
-		background-color: #6b00ff;
-		background-image: linear-gradient(#ffcd00, #cca400);
+		background-color: #6b00ff !important;
+		background-image: linear-gradient(#ffcd00, #cca400) !important;
 		border-style: solid;
 		border-width: 1px;
 		border-color: #999999;
@@ -170,8 +170,8 @@ p {
 @media (prefers-color-scheme: light) {
 	footer {
 		display: block;
-		background-color: #6b00ff;
-		background-image: linear-gradient(#ffcd00, #cca400);
+		background-color: #6b00ff !important;
+		background-image: linear-gradient(#ffcd00, #cca400) !important;
 		border-style: solid;
 		border-width: 1px;
 		border-color: #999999;
@@ -182,8 +182,8 @@ p {
 @media (prefers-color-scheme: dark) {
 	header {
 		display: block;
-		background-color: #6b00ff;
-		background: linear-gradient(#6b00ff, #5600cc);
+		background-color: #6b00ff !important;
+		background: linear-gradient(#6b00ff, #5600cc) !important;
 		padding: 10px;
 		border-style: solid;
 		border-width: 1px;
@@ -193,8 +193,8 @@ p {
 @media (prefers-color-scheme: dark) {
 	footer {
 		display: block;
-		background-color: #6b00ff;
-		background: linear-gradient(#6b00ff, #5600cc);
+		background-color: #6b00ff !important;
+		background: linear-gradient(#6b00ff, #5600cc) !important;
 		padding: 10px;
 		border-style: solid;
 		border-width: 1px;
@@ -204,7 +204,7 @@ p {
 @media (prefers-color-scheme: dark) {
 	kbd {
 		padding: 2px;
-		background: linear-gradient(#333333, #191919);
+		background: linear-gradient(#333333, #191919) !important;
 		border-style: solid;
 		border-width: 1px;
 		border-color: #333333;
@@ -215,7 +215,7 @@ p {
 @media (prefers-color-scheme: light) {
 	kbd {
 		padding: 2px;
-		background: linear-gradient(#e5e5e5, #cccccc);
+		background: linear-gradient(#e5e5e5, #cccccc) !important;
 		border-style: solid;
 		border-width: 1px;
 		border-color: #999999;
