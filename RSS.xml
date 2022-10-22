@@ -10,14 +10,14 @@
  <item>
   <title>RSS 1</title>
   <description>Here is some text containing an interesting description.</description>
-  <link>clygro.ml</link>
-  <pubDate>Monn, 01 Nov 2021 00:18:20 +0000</pubDate>
+  <link>clygro.github.io</link>
+  <pubDate>Mon, 01 Nov 2021 00:18:20 +0000</pubDate>
  </item>
  
   <item>
   <title>It works</title>
   <description>I got this working first time somehow, yay!!!</description>
-  <link>clygro.ml</link>
+  <link>clygro.github.io</link>
   <pubDate>Mon, 01 Nov 2021 00:25:05 +0000</pubDate>
  </item>
  
@@ -29,5 +29,21 @@
   <pubDate>Sat, 01 Jan 2022 12:47:56 +0000</pubDate>
  </item>
 
+    <item>
+  <title>Website & Clygro Update</title>
+    <description>Hello people, it has been a while since I have done a post here, quite a bit has happened since the last post, so I'll talk about it. 
+Firstly, a preview of the new Clygro Website is out, it is designed to have better compatibility with older browser, and browser that don't support all of the features, such as NetSurf or Servo. The new website can be accessed at https://clygro.github.io/indexnew.html it follows the system theme, there are now gradients featured in the navigation bar, code blocks and the footer, if the browser doesn't support it, it will show a solid colour instead. 
+Now onto a different topic, my YouTube channel, so I have been YouTube for over 6 years now, but in 2022 I have started to put a bit more effort into my channel, the videos have thumbnails that have borders that distinguish the type of the video and having a clear title and other relevant stuff in the thumbnail, I'll be retrofitting these thumbnails onto my older videos. 
+Another thing that I have also properly started to do in 2022 is subtitles, they help make videos more accessible, according to YouTube Studio, 7.9% of viewers use my subtitles in the last 28 days, and 8% in the lifetime of my channel, which is 6 years by the way. Having subtitles even on just some of my videos definitely has helped boost the view counts (especially the Firefox tutorials) I plan to subtitle all my videos that are less than 20 minutes by the end of 2022 and all my videos by the end of 2023. From now on, all my new videos will be subtitled.
+Another thing that I'm planning to do is do special themed weeks where I upload daily for a week with all the videos having a common theme, 2 ideas that I came up with is Linux Week and Legacy iOS Week, I'll probably do them at the last week of the month or maybe the first week, it's still yet to be decided. 
+Onto the final thing to do with video content, I'm planning to join a PeerTube instance, for those unaware, PeerTube is a decentralised video sharing website, no one is in control of all of it, people host their own servers, and people can make accounts on them, and then watch from different servers. I think it's quite cool, especially with the fact that videos can be synced with YouTube, it's definitely worth doing, and I'll be doing it in the near future when I find an instance to settle on. 
+Another thing related to decentralised social media, I have a Mastodon and a Pixelfed account, for those unaware Mastodon is like Twitter but decentralised (the correct word is federated, but shhh) people can like, boost, follow, and view people from other instances, also all my posts on there are bridged onto Twitter and my Tweets also appear onto my Mastodon. Another cool thing is that Mastodon can also communicate with other social websites using ActivityPub, such as Misskey, Pleroma, and Pixelfed, which I mentioned earlier. Because I now have a Pixelfed account as well, for those unaware, Pixelfed is another federated social media, however unlike the other 3 websites mentioned, Pixelfed resembles Instagram than Twitter, which is quite cool, as Instagram is owned by a spyware corporate entity. So having an alternative to that is very nice. 
+My Mastodon can be found at https://mastodon.online/@clygro and my Pixelfed can be found at https://pixelfed.social/clygro 
+Another thing that I have been doing in 2022 is ALT Text, ALT Text is a description of an image, which can be useful for people with screen readers, it can also tell the google engines what are in the images, so it can appear on more relevant search results, and it can be useful for people with slow connections where the image takes a while to load, or if the image has become invalid, so there's quite a few use cases for it. So, I have used it for the backgrounds page on my website, my Mastodon/Twitter posts. Neither on Twitter or Mastodon gives me any statistics on how many people click the ALT text button/have it read, which is a shame, but I do think it's useful, and it barely takes up any time to write, and would help a lot of people.
+So, there's pretty much everything you need to know, hopefully I'll do these a bit more often in the future and it also being a bit more consistent too.
+</description>
+  <pubDate>Sun, 23 Oct 2022 00:43:37 +0000</pubDate>
+
+ 
 </channel>
 </rss>
