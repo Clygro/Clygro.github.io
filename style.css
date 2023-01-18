@@ -3,19 +3,22 @@
     	color: #000000;
 		font-family: Contemporary, Verdana, Arial;
 	}
+
 @media (prefers-color-scheme: light) {
 	body {
-    	background: #FFF;
-    	color: #000000;
+    background: #FFF;
+		background: linear-gradient(#fff, #d3d3d3);
+    color: #000000;
 		font-family: Contemporary, Verdana, Arial;
 	}
 }
 
 @media (prefers-color-scheme: dark) {
 	body	{
-    	background: #000000;
-    	color: #FFF;
+    background: #000000;
+    color: #FFF;
 		font-family: Contemporary, Verdana, Arial;
+		background: linear-gradient(#000, #333);
 	}
 }
 
@@ -44,6 +47,7 @@
 		box-shadow: 0px 0px 35px #000000;
 	 }
 }
+
 @media (prefers-color-scheme: dark)	{
 	banner	{
 		margin-top: 2px;
@@ -99,35 +103,37 @@
 }
 
 h1 {
-	padding: 5px;
+	padding: 2.5px;
 }
 
 h2 {
-	padding: 5px;
+	padding: 2.5px;
 }
 
 h3 {
-	padding: 5px;
+	padding: 2.5px;
 }
 
 h4 {
-	padding: 5px;
+	padding: 2.5px;
 }
 
 h4 {
-	padding: 5px;
+	padding: 2.5px;
 }
 
 h5 {
-	padding: 5px;
+	padding: 2.5px;
 }
 
 h6 {
-	padding: 5px;
+	padding: 2.5px;
 }
+
 p {
-	padding: 5px;	
+	padding: 2.5px;	
 }
+
 @media (prefers-color-scheme: dark) {
 	a {
 		color: #6ec7e5 !important;
@@ -135,6 +141,7 @@ p {
 		font-weight: bold;
 	}
 }
+
 @media (prefers-color-scheme: dark) {
 	a:hover {
 		color: white !important;
@@ -142,20 +149,23 @@ p {
 		font-weight: bold;
 	}
 }
+
 @media (prefers-color-scheme: light) {
 	a {
 		color: #345f6d !important;
-		padding: 5px;
+		padding: 2.5px;
 		font-weight: bold;
 	}
 }
+
 @media (prefers-color-scheme: light) {
 	a:hover {
 		color: black !important;
-		padding: 5px;
+		padding: 2.5px;
 		font-weight: bold, italic;
 	}
 }
+
 @media (prefers-color-scheme: light) {
 	header {
 		display: block;
@@ -167,6 +177,7 @@ p {
 		padding: 10px;
 	}
 }
+
 @media (prefers-color-scheme: light) {
 	footer {
 		display: block;
@@ -190,6 +201,7 @@ p {
 		border-color: #333333;
 	}
 }
+
 @media (prefers-color-scheme: dark) {
 	footer {
 		display: block;
@@ -201,6 +213,7 @@ p {
 		border-color: #333333;
 	}
 }
+
 @media (prefers-color-scheme: dark) {
 	kbd {
 		padding: 2px;
@@ -212,6 +225,7 @@ p {
 		margin-left: 2px;
 	}
 }
+
 @media (prefers-color-scheme: light) {
 	kbd {
 		padding: 2px;
@@ -223,6 +237,7 @@ p {
 		margin-left: 2px;
 	}
 }
+
 @media (prefers-color-scheme: dark) {
 	ul {
 		display: flex;
@@ -235,6 +250,7 @@ p {
 		border-color: #333333;
 	}
 }
+
 @media (prefers-color-scheme: light) {
 	ul {
 		display: flex;
@@ -256,6 +272,7 @@ p {
 		border-width: 1px;
 		border-color: #999999;
 	}
+
 	kbd {
 		padding: 2px;
 		background: linear-gradient(#e5e5e5, #cccccc);
@@ -265,6 +282,7 @@ p {
 		margin-right: 2px;
 		margin-left: 2px;
 	}
+
 	footer {
 		display: block;
 		background-color: #ffcd00;
@@ -274,6 +292,7 @@ p {
 		border-color: #999999;
 		padding: 10px;
 	}
+
 	header {
 		display: block;
 		background-color: #ffcd00;
@@ -283,20 +302,23 @@ p {
 		border-color: #999999;
 		padding: 10px;
 	}
+
 	a:hover {
 		color: black;
-		padding: 5px;
+		padding: 2.5px;
 		font-weight: bold, italic;
 	}
+
 	a {
 		color: #345f6d;
-		padding: 5px;
+		padding: 2.5px;
 		font-weight: bold;
 	}
 
 main {
-	padding: 10px;
+	padding: 5px;
 }
+
 @media (prefers-color-scheme: light) {
 	img.dark { 
 		display; none:
@@ -308,6 +330,7 @@ main {
 		display; flex:
 	}
 }
+
 img { 
 	display: none;	
 }
