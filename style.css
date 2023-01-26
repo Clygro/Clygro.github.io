@@ -2,6 +2,7 @@
     	background: #FFF;
     	color: #000000;
 		font-family: Contemporary, Verdana, Arial;
+		background-image: url(Background.svg);
 	}
 
 @media (prefers-color-scheme: light) {
@@ -10,6 +11,7 @@
 		background: linear-gradient(#fff, #d3d3d3);
     color: #000000;
 		font-family: Contemporary, Verdana, Arial;
+		background-image: url(Background.svg);
 	}
 }
 
@@ -19,6 +21,7 @@
     color: #FFF;
 		font-family: Contemporary, Verdana, Arial;
 		background: linear-gradient(#000, #333);
+		background-image: url(BackgroundDark.svg);
 	}
 }
 
