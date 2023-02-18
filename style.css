@@ -204,8 +204,8 @@ p {
 @media (prefers-color-scheme: dark) {
 	header {
 		display: block;
-		background-color: #6b00ff !important;
 		background: linear-gradient(#333333, #191919) !important;
+		background: #333333;
 		padding: 10px;
 		border-style: solid;
 		border-width: 1px;
@@ -216,8 +216,8 @@ p {
 @media (prefers-color-scheme: dark) {
 	footer {
 		display: block;
-		background-color: #6b00ff !important;
-    background: linear-gradient(#333333, #191919) !important;
+		background: linear-gradient(#333333, #191919) !important;
+		background: #333333;
 		padding: 10px;
 		border-style: solid;
 		border-width: 1px;
