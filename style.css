@@ -1,4 +1,4 @@
-	body {
+		body {
     	background: #FFF;
     	color: #000000;
 		font-family: Contemporary, Verdana, Arial;
@@ -53,8 +53,7 @@
 
 @media (prefers-color-scheme: dark)	{
 	banner	{
-		margin-top: 2px;
-        background-color: #222222);
+		margin-to;
         margin: auto;
         max-width: 100%;
         border-radius: 0px;
@@ -153,6 +152,15 @@ p {
 	}
 }
 
+@media (prefers-color-scheme: dark) {
+	div.header {
+	 a {
+		  color: blue !important;
+		  padding: 5px;
+		  font-weight: bold;
+	 }
+  }
+}
 @media (prefers-color-scheme: light) {
 	a {
 		color: #345f6d !important;
@@ -172,8 +180,8 @@ p {
 @media (prefers-color-scheme: light) {
 	header {
 		display: block;
-		background-color: #6b00ff !important;
-		background-image: linear-gradient(#ffcd00, #cca400) !important;
+		background: linear-gradient(#e5e5e5, #cccccc) !important;
+		background: #e5e5e5;
 		border-style: solid;
 		border-width: 1px;
 		border-color: #999999;
@@ -184,8 +192,8 @@ p {
 @media (prefers-color-scheme: light) {
 	footer {
 		display: block;
-		background-color: #6b00ff !important;
-		background-image: linear-gradient(#ffcd00, #cca400) !important;
+		background: linear-gradient(#e5e5e5, #cccccc) !important;
+		background: #e5e5e5;
 		border-style: solid;
 		border-width: 1px;
 		border-color: #999999;
@@ -197,7 +205,7 @@ p {
 	header {
 		display: block;
 		background-color: #6b00ff !important;
-		background: linear-gradient(#6b00ff, #5600cc) !important;
+		background: linear-gradient(#333333, #191919) !important;
 		padding: 10px;
 		border-style: solid;
 		border-width: 1px;
@@ -209,7 +217,7 @@ p {
 	footer {
 		display: block;
 		background-color: #6b00ff !important;
-		background: linear-gradient(#6b00ff, #5600cc) !important;
+    background: linear-gradient(#333333, #191919) !important;
 		padding: 10px;
 		border-style: solid;
 		border-width: 1px;
@@ -291,8 +299,8 @@ p {
 
 	footer {
 		display: block;
-		background-color: #ffcd00;
-		background-image: linear-gradient(#ffcd00, #cca400);
+		background: linear-gradient(#e5e5e5, #cccccc) !important;
+		background: #e5e5e5;
 		border-style: solid;
 		border-width: 1px;
 		border-color: #999999;
@@ -301,8 +309,8 @@ p {
 
 	header {
 		display: block;
-		background-color: #ffcd00;
-		background-image: linear-gradient(#ffcd00, #cca400);
+		background: linear-gradient(#e5e5e5, #cccccc) !important;
+		background: #e5e5e5;
 		border-style: solid;
 		border-width: 1px;
 		border-color: #999999;
@@ -340,4 +348,3 @@ main {
 img { 
 	display: none;	
 }
-
