@@ -204,8 +204,8 @@ p {
 @media (prefers-color-scheme: dark) {
 	header {
 		display: block;
-		background: linear-gradient(#333333, #191919) !important;
-		background: #333333;
+		background-color: #6b00ff !important;
+		background: linear-gradient(#6b00ff, #5600cc) !important;
 		padding: 10px;
 		border-style: solid;
 		border-width: 1px;
@@ -216,9 +216,48 @@ p {
 @media (prefers-color-scheme: dark) {
 	footer {
 		display: block;
+		background-color: #6b00ff !important;
+		background: linear-gradient(#6b00ff, #5600cc) !important;
+		padding: 10px;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #333333;
+	}
+}
+
+@media (prefers-color-scheme: dark) {
+	kbd {
+		padding: 2px;
 		background: linear-gradient(#333333, #191919) !important;
 		background: #333333;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #333333;
+		margin-right: 2px;
+		margin-left: 2px;
+	}
+}
+
+@media (prefers-color-scheme: light) {
+	kbd {
+		padding: 2px;
+		background: linear-gradient(#e5e5e5, #cccccc) !important;
+		background: #e5e5e5;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #999999;
+		margin-right: 2px;
+		margin-left: 2px;
+	}
+}
+
+@media (prefers-color-scheme: dark) {
+	ul {
+		display: flex;
+		width: auto;
+		background-color: #111111;
 		padding: 10px;
+		background: linear-gradient(#333333, #191919);
 		border-style: solid;
 		border-width: 1px;
 		border-color: #333333;
