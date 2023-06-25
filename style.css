@@ -205,7 +205,7 @@ p {
 	header {
 		display: block;
 		background-color: #6b00ff !important;
-		background: linear-gradient(#6b00ff, #5600cc) !important;
+		background:  linear-gradient(#333, #191919) !important;
 		padding: 10px;
 		border-style: solid;
 		border-width: 1px;
@@ -217,7 +217,7 @@ p {
 	footer {
 		display: block;
 		background-color: #6b00ff !important;
-		background: linear-gradient(#6b00ff, #5600cc) !important;
+		background:  linear-gradient(#333, #191919) !important;
 		padding: 10px;
 		border-style: solid;
 		border-width: 1px;
@@ -327,7 +327,7 @@ p {
 
 	kbd {
 		padding: 2px;
-		background: linear-gradient(#e5e5e5, #cccccc);
+		background: linear-gradient(#333, #191919);
 		background: #e5e5e5;
 		border-style: solid;
 		border-width: 1px;
@@ -338,7 +338,7 @@ p {
 
 	footer {
 		display: block;
-		background: linear-gradient(#e5e5e5, #cccccc) !important;
+		background: linear-gradient(#e5e5e5, #cccccc);
 		background: #e5e5e5;
 		border-style: solid;
 		border-width: 1px;
@@ -348,7 +348,7 @@ p {
 
 	header {
 		display: block;
-		background: linear-gradient(#e5e5e5, #cccccc) !important;
+		background: linear-gradient(#333, #191919);
 		background: #e5e5e5;
 		border-style: solid;
 		border-width: 1px;
