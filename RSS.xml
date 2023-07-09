@@ -3,21 +3,21 @@
 <channel>
  <title>RSS  Updates</title>
  <description>This is a test of RSS</description>
- <link>clygro.ml</link>
+ <link>clygro.cc/blog/1.html</link>
  <pubDate>Mon, 01 Nov 2021 0:16:50 +0000</pubDate>
  <ttl>1800</ttl>
 
  <item>
   <title>RSS 1</title>
   <description>Here is some text containing an interesting description.</description>
-  <link>clygro.github.io</link>
+  <link>clygro.cc/blog/2.html</link>
   <pubDate>Mon, 01 Nov 2021 00:18:20 +0000</pubDate>
  </item>
  
   <item>
   <title>It works</title>
   <description>I got this working first time somehow, yay!!!</description>
-  <link>clygro.github.io</link>
+  <link>clygro.cc/blog/3.html</link>
   <pubDate>Mon, 01 Nov 2021 00:25:05 +0000</pubDate>
  </item>
  
@@ -25,11 +25,11 @@
   <title>Website Update</title>
   <description>As you may have noticed, there have been changes to my website. I'll eventually be making a whole redesign of the website, including a mobile version of the website too.
     But so far, I have done: Add a nice Favicon, Fixed the layout for the backgrounds page, and also in preparation for the mobile website, I have made a version of the UNTP designed for mobile, not everything is done mostly because I couldn't work out on how to do it myself, hopefully I'll do it at a later date with some research. You can go to the mobile version at https://clygro.github.io/tab-mobile. </description>
-  <link>clygro.github.io</link>
+  <link>clygro.cc/blog/4.html</link>
   <pubDate>Sat, 01 Jan 2022 12:47:56 +0000</pubDate>
  </item>
 
-   <item>
+<item>
   <title>Website & Clygro Update</title>
     <description>Hello people, it has been a while since I have done a post here, quite a bit has happened since the last post, so I'll talk about it. 
 Firstly, a preview of the new Clygro Website is out, it is designed to have better compatibility with older browser, and browser that don't support all of the features, such as NetSurf or Servo. The new website can be accessed at https://clygro.github.io/indexnew.html it follows the system theme, there are now gradients featured in the navigation bar, code blocks and the footer, if the browser doesn't support it, it will show a solid colour instead. 
@@ -42,8 +42,15 @@ My Mastodon can be found at https://mastodon.online/@clygro and my Pixelfed can 
 Another thing that I have been doing in 2022 is ALT Text, ALT Text is a description of an image, which can be useful for people with screen readers, it can also tell the google engines what are in the images, so it can appear on more relevant search results, and it can be useful for people with slow connections where the image takes a while to load, or if the image has become invalid, so there's quite a few use cases for it. So, I have used it for the backgrounds page on my website, my Mastodon/Twitter posts. Neither on Twitter or Mastodon gives me any statistics on how many people click the ALT text button/have it read, which is a shame, but I do think it's useful, and it barely takes up any time to write, and would help a lot of people.
 So, there's pretty much everything you need to know, hopefully I'll do these a bit more often in the future and it also being a bit more consistent too.
 </description>
+<link>clygro.cc/blog/5.html</link>
   <pubDate>Sun, 23 Oct 2022 00:43:37 +0100</pubDate>
- </item>
- 
+</item>
+  <title>Introducing The Clygro Blog</title>
+    <description>Hello people, I here to announce the actual Clygro blog. I have only decided to start this yesterday. Additionally I have also done some layout tweaks to my new website layout, with my links on left and the recent blog posts. The website adjusts for smaller screens, which should mean it is better for mobile usage. Although on iOS 15.6 on my iPhone 8 Plus it has problems rendering the background when in portrait, this is not even a problem on iOS 5.0.1 on my iPhone 4S in portrait mode, so I have no clue what is going on. Ignoring that weird issue, everything should be fine on mobile now. Onto the main bit I guess, the plans for the blog. So I am planning to do posts on a semi-regular basis, especially since I have quite a bit of free time until September. I currently do not have much to do, which is why I have been working on the website over the past day. I am planning to start a Clash of Clans custom server soon, but so far I have had no luck with it running it on Linux so far (I think I need to install all of the dependencies manually). I have started a podcast recently, currently it is only available on YouTube and PeerTube, but I am planning to add it to an RSS feed soon. I am also planning to try and launch a massive project somewhat soon.
+</description>
+<link>clygro.cc/blog/6.html</link>
+  <pubDate>Sun, 09 Oct 2022 21:04:00 +0100</pubDate>
+ </item>  
+  
 </channel>
 </rss>
