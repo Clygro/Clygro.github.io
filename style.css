@@ -105,41 +105,41 @@
 }
 
 h1 {
-	padding: 2.5px;
+	padding: 1px;
 }
 
 h2 {
-	padding: 2.5px;
+	padding: 1px;
 }
 
 h3 {
-	padding: 2.5px;
+	padding: 1px;
 }
 
 h4 {
-	padding: 2.5px;
+	padding: 1px;
 }
 
 h4 {
-	padding: 2.5px;
+	padding: 1px;
 }
 
 h5 {
-	padding: 2.5px;
+	padding: 1px;
 }
 
 h6 {
-	padding: 2.5px;
+	padding: 1px;
 }
 
 p {
-	padding: 2.5px;	
+	padding: 1px;	
 }
 
 @media (prefers-color-scheme: dark) {
 	a {
 		color: #6ec7e5 !important;
-		padding: 5px;
+		padding: 0px;
 		font-weight: bold;
 	}
 }
@@ -147,7 +147,7 @@ p {
 @media (prefers-color-scheme: dark) {
 	a:hover {
 		color: white !important;
-		padding: 5px;
+		padding: 0px;
 		font-weight: bold;
 	}
 }
@@ -156,7 +156,7 @@ p {
 	div.header {
 	 a {
 		  color: blue !important;
-		  padding: 5px;
+		  padding: 0px;
 		  font-weight: bold;
 	 }
   }
@@ -164,7 +164,7 @@ p {
 @media (prefers-color-scheme: light) {
 	a {
 		color: #345f6d !important;
-		padding: 2.5px;
+		padding: 0px;
 		font-weight: bold;
 	}
 }
@@ -172,7 +172,7 @@ p {
 @media (prefers-color-scheme: light) {
 	a:hover {
 		color: black !important;
-		padding: 2.5px;
+		padding: 0px;
 		font-weight: bold, italic;
 	}
 }
@@ -358,13 +358,13 @@ p {
 
 	a:hover {
 		color: black;
-		padding: 2.5px;
+		padding: 0px;
 		font-weight: bold, italic;
 	}
 
 	a {
 		color: #345f6d;
-		padding: 2.5px;
+		padding: 0px;
 		font-weight: bold;
 	}
 
@@ -387,3 +387,39 @@ main {
 img { 
 	display: none;	
 }
+
+
+/* Create three unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+}
+
+/* Left and right column */
+.column.side {
+  width: 20%;
+}
+
+/* Middle column */
+.column.middle {
+  width: 56%;
+}
+
+/* Clear floats after the columns */
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 1000px) {
+  .column.side, .column.middle {
+    width: 100%;
+  }
+}
+
+button {
+	display: block;
+	color: white;
+	}
