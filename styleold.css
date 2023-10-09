@@ -63,6 +63,7 @@ border-width: 3px;
 
 div.site {
 	  float: center;
+	background: #28170B;
 }
 
 
@@ -138,6 +139,8 @@ body {
 	size: 14px;
 	margin: 10px;
 }
+
+
 
 /* Yellow Colour */
 div.section1 {
