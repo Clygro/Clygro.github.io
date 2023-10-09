@@ -143,7 +143,7 @@ body {
 div.section1 {
 	margin-top: 10px;
 	max-width: 100%;
-        background-color: rgba(204, 164, 0, 0.25);
+        background-color: #513A08;
         border-radius: 0px;
   	padding-top: 5px;
 	padding-left: 5px;
@@ -161,7 +161,7 @@ div.section1 {
 /* Pink Colour */
 div.section2 {
 	margin-top: 10px;
-        background-color: rgba(194, 100, 124, 0.25);
+        background-color: #4F2A27;
         max-width: 100%;
         border-radius: 0px;
   	padding-top: 5px;
@@ -179,7 +179,7 @@ div.section2 {
 div.section3 {
 	margin-top: 10px;
 	max-width: 100%;
-        background-color: rgba(86, 0, 204, 0.25);
+        background-color: #34113B;
         border-radius: 0px;
   	padding-top: 5px;
 	padding-left: 5px;
@@ -197,7 +197,7 @@ div.section3 {
 div.section4 {
 	margin-top: 10px;
 	max-width: 100%;
-        background-color: rgba(204, 164, 0, 0.25);
+        background-color: #513A08:
         border-radius: 0px;
   	padding-top: 5px;
 	padding-left: 5px;
@@ -243,7 +243,7 @@ div.aboutdescription {
 /* Purple Colour */
 div.footer {
 	margin-top: 10px;
-        background-color: rgba(86, 0, 204, 0.25);
+        background-color: #34113B;
         float: auto;
         max-width: 100%;
         border-radius: 0px;
