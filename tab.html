@@ -68,7 +68,7 @@ div.shortcuts {
 	box-shadow: 0px 0px 35px #000000;
 }
 
-.clockdate-wrapper {
+div.status {
     background-color: rgba(194, 100, 124, 0.5);
     padding:1px;
     max-width:350px;
@@ -87,9 +87,10 @@ div.shortcuts {
     border-color: #999999;
     border-width: 2px;
     box-shadow: 0px 0px 35px #000000;
+	 font-family: contemporary;
 }
 
-#clock{
+h1 {
     background-color: rgba(86, 0, 204, 0);
     font-family: contemporary;
     font-size:65px;
@@ -99,31 +100,34 @@ div.shortcuts {
 
 </style>
 <script>
-function startTime() {
-    var today = new Date();
-    var hr = today.getHours();
-    var min = today.getMinutes();
-    var sec = today.getSeconds();
-    //Add a zero in front of numbers<10
-    min = checkTime(min);
-    sec = checkTime(sec);
-    document.getElementById("clock").innerHTML = hr + " : " + min + " : " + sec;
-    var time = setTimeout(function(){ startTime() }, 500);
-}
-function checkTime(i) {
-    if (i < 10) {
-        i = "0" + i;
-    }
-    return i;
-}
+ function updateDateTime() {
+            var currentDate = new Date();
+
+            // Format time
+            var optionsTime = { hour: 'numeric', minute: 'numeric', second: 'numeric' };
+            var formattedTime = currentDate.toLocaleTimeString('en-GB', optionsTime);
+
+            // Format date
+            var optionsDate = { year: 'numeric', month: 'long', day: 'numeric' };
+            var formattedDate = currentDate.toLocaleDateString('en-GB', optionsDate);
+
+            // Display time and date
+            document.getElementById('time').innerHTML = formattedTime;
+            document.getElementById('date').innerHTML = formattedDate;
+        }
+
+        // Update the date and time every second
+        setInterval(updateDateTime, 1000);
+
+        // Initial update
+        updateDateTime();
 </script>
 <div class="status">
 
 
-<div id="clockdate">
-  <div class="clockdate-wrapper">
-    <div id="clock"></div>
-    <div id="date"></div>
+<div id="timeinfo">
+    <h1 id="time"></h1>
+    <p id="date"></p>
   </div>
 </div>
 </div>
